@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">1922500121UTSMOBTECH</string>
+    <string name="kalkulator_grade_isb_atma_luhur_pangkalpinang">KALKULATOR GRADE ISB ATMA LUHUR PANGKALPINANG</string>
+    <string name="nilai_uas_0_100">Nilai UAS (0-100)</string>
+    <string name="nilai_uts_0_100">Nilai UTS (0-100)</string>
+    <string name="nilai_tugas_0_100">Nilai Tugas (0-100)</string>
+    <string name="hitung">HITUNG</string>
+    <string name="hasil_nilai_akhir">HASIL NILAI AKHIR</string>
+    <string name="desing_by_abdiansyah">Desing by Abdiansyah</string>
+    <string name="absensi">Absensi</string>
+    <string name="tugas">Tugas</string>
+    <string name="uts">UTS</string>
+    <string name="uas">UAS</string>
+    <string name="nilai_absensi_0_100">Nilai Absensi (0-100)</string>
+</resources>
